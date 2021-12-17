@@ -1,0 +1,38 @@
+.big_article {
+  width: 531px;
+  height: 458px;
+  z-index: 1;
+  border-radius: 19px;
+  position: relative;
+  top: -41px;
+  left: 179px;
+}
+.article_container {
+  position: relative;
+  border: 4px black;
+
+  height: 426px;
+  top: -32px;
+}
+
+.article_title {
+  top: -381px;
+  position: relative;
+  height: fit-content;
+  max-width: 758px;
+  left: 700px;
+  z-index: 2;
+  font-size: 31px;
+  font-weight: bold;
+}
+.little_article {
+  position: relative;
+  left: 10px;
+  width: 27%;
+  height: 312px;
+  border-radius: 10px;
+}
+.img_size {
+  width: 451px;
+  height: 399px;
+}
